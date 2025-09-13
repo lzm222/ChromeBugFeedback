@@ -20,6 +20,9 @@ In the repository, generated via Task Manager.
 # System Information
 
 OS Version Windows 10 Chinese Home Edition 
+
 Version Number `22H2`
+
 OS Build `19045.6216`
+
 Chrome Version `132.0.6834.84 (Official Build) (64-bit)`
